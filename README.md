@@ -1,2 +1,2 @@
-# mips-lab-integer
+# mips-lab
 Beginner MIPS project
